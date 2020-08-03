@@ -1,0 +1,1 @@
+mock_availability_gateway

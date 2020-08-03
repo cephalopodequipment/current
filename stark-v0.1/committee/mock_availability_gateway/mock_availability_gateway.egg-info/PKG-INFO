@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: mock-availability-gateway
+Version: 0.1
+Summary: UNKNOWN
+Home-page: https://starkware.co
+Author: StarkWare Industries
+Author-email: info@starkware.co
+License: UNKNOWN
+Description: # Mock Availability Gateway Service
+        
+        **A Mock of the Gateway Service Providing availability data for Committee members**
+        
+Platform: UNKNOWN

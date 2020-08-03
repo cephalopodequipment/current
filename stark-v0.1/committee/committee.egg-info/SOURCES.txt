@@ -1,0 +1,11 @@
+setup.py
+committee/__init__.py
+committee/availability_gateway_client.py
+committee/committee.py
+committee/custom_validation.py
+committee/dump_vaults_tree.py
+committee.egg-info/PKG-INFO
+committee.egg-info/SOURCES.txt
+committee.egg-info/dependency_links.txt
+committee.egg-info/requires.txt
+committee.egg-info/top_level.txt
