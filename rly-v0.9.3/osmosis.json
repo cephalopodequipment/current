@@ -1,8 +1,0 @@
-{
-  "chain-id": "osmosis-1",
-  "rpc-addr": "http://osmosis1.cec:26657",
-  "account-prefix": "osmo",
-  "gas-adjustment": 1,
-  "gas-prices": "0.001uosmo",
-  "trusting-period": "14m"
-}
