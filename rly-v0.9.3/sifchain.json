@@ -1,0 +1,8 @@
+{
+  "chain-id": "sifchain-1",
+  "rpc-addr": "http://sif0.cec:26657",
+  "account-prefix": "sif",
+  "gas-adjustment": 1,
+  "gas-prices": "0.001rowan",
+  "trusting-period": "14m"
+}
