@@ -38,3 +38,4 @@ osmosis-vgentx filter=lfs diff=lfs merge=lfs -text
 starnamed-v0.10.12 filter=lfs diff=lfs merge=lfs -text
 yubihsm-connector-3.0.1 filter=lfs diff=lfs merge=lfs -text
 zabbix-5.4.3 filter=lfs diff=lfs merge=lfs -text
+emd* filter=lfs diff=lfs merge=lfs -text
