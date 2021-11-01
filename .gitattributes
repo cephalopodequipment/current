@@ -32,10 +32,11 @@ chain-maind-v2.0.1 filter=lfs diff=lfs merge=lfs -text
 gaiad-v5.0.5 filter=lfs diff=lfs merge=lfs -text
 levant-v0.3.0 filter=lfs diff=lfs merge=lfs -text
 regen-v1.0.0 filter=lfs diff=lfs merge=lfs -text
-sifnoded-0.9.7 filter=lfs diff=lfs merge=lfs -text
 yubihsm-shell-2.2.0 filter=lfs diff=lfs merge=lfs -text
 osmosis-vgentx filter=lfs diff=lfs merge=lfs -text
 starnamed-v0.10.12 filter=lfs diff=lfs merge=lfs -text
 yubihsm-connector-3.0.1 filter=lfs diff=lfs merge=lfs -text
 zabbix-5.4.3 filter=lfs diff=lfs merge=lfs -text
 emd* filter=lfs diff=lfs merge=lfs -text
+sifnoded-0.9.10 filter=lfs diff=lfs merge=lfs -text
+sifnoded-0.9.7 filter=lfs diff=lfs merge=lfs -text
