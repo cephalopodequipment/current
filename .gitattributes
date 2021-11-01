@@ -40,3 +40,4 @@ zabbix-5.4.3 filter=lfs diff=lfs merge=lfs -text
 emd* filter=lfs diff=lfs merge=lfs -text
 sifnoded-0.9.10 filter=lfs diff=lfs merge=lfs -text
 sifnoded-0.9.7 filter=lfs diff=lfs merge=lfs -text
+terrad-v0.5.8 filter=lfs diff=lfs merge=lfs -text
