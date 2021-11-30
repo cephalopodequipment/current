@@ -44,3 +44,5 @@ terrad-v0.5.8 filter=lfs diff=lfs merge=lfs -text
 cheqd-noded-v0.3.1 filter=lfs diff=lfs merge=lfs -text
 akash-v0.14.0 filter=lfs diff=lfs merge=lfs -text
 akash filter=lfs diff=lfs merge=lfs -text
+regen-v2.0.0 filter=lfs diff=lfs merge=lfs -text
+regen-v2.1.0 filter=lfs diff=lfs merge=lfs -text
