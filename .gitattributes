@@ -56,3 +56,5 @@ osmosis-v5.0.0/osmosisd filter=lfs diff=lfs merge=lfs -text
 osmosis-v6.0.0/osmosisd filter=lfs diff=lfs merge=lfs -text
 chihuahua-v1.1.1/ filter=lfs diff=lfs merge=lfs -text
 sifnoded-0.10.1/ filter=lfs diff=lfs merge=lfs -text
+chihuahua-v1.1.1/chihuahuad filter=lfs diff=lfs merge=lfs -text
+sifnoded-0.10.1/sifnoded filter=lfs diff=lfs merge=lfs -text
