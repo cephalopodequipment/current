@@ -58,3 +58,8 @@ chihuahua-v1.1.1/ filter=lfs diff=lfs merge=lfs -text
 sifnoded-0.10.1/ filter=lfs diff=lfs merge=lfs -text
 chihuahua-v1.1.1/chihuahuad filter=lfs diff=lfs merge=lfs -text
 sifnoded-0.10.1/sifnoded filter=lfs diff=lfs merge=lfs -text
+ag0-3.1/ag0 filter=lfs diff=lfs merge=lfs -text
+ag0-agoric-upgrade-5/ag0 filter=lfs diff=lfs merge=lfs -text
+gravity/v1.4.1/gravity filter=lfs diff=lfs merge=lfs -text
+hermes/v0.10.0/hermes filter=lfs diff=lfs merge=lfs -text
+hermes/v0.11.0/hermes filter=lfs diff=lfs merge=lfs -text
