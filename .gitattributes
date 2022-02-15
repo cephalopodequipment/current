@@ -63,3 +63,5 @@ ag0-agoric-upgrade-5/ag0 filter=lfs diff=lfs merge=lfs -text
 gravity/v1.4.1/gravity filter=lfs diff=lfs merge=lfs -text
 hermes/v0.10.0/hermes filter=lfs diff=lfs merge=lfs -text
 hermes/v0.11.0/hermes filter=lfs diff=lfs merge=lfs -text
+gravity/v1.0.0/gravity filter=lfs diff=lfs merge=lfs -text
+osmosis-v6.2.0/osmosisd filter=lfs diff=lfs merge=lfs -text
