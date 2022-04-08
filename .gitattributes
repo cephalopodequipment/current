@@ -140,3 +140,5 @@ akash-v0.14.0/akash filter=lfs diff=lfs merge=lfs -text
 starnamed-v0.10.12/libwasmvm.so filter=lfs diff=lfs merge=lfs -text
 yubihsm-connector-3.0.1/yubihsm-connector filter=lfs diff=lfs merge=lfs -text
 zabbix-5.4.3/cec.conf.j2 filter=lfs diff=lfs merge=lfs -text
+osmosis-v7.1.0 filter=lfs diff=lfs merge=lfs -text
+osmosis-v7.1.0/osmosisd filter=lfs diff=lfs merge=lfs -text
