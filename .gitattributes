@@ -142,3 +142,4 @@ yubihsm-connector-3.0.1/yubihsm-connector filter=lfs diff=lfs merge=lfs -text
 zabbix-5.4.3/cec.conf.j2 filter=lfs diff=lfs merge=lfs -text
 osmosis-v7.1.0 filter=lfs diff=lfs merge=lfs -text
 osmosis-v7.1.0/osmosisd filter=lfs diff=lfs merge=lfs -text
+terrad-v0.5.17/terrad filter=lfs diff=lfs merge=lfs -text
