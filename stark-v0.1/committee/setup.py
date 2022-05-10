@@ -1,16 +1,3 @@
-from setuptools import find_packages, setup
-
-setup(
-    name='committee',
-    version='0.1',
-    packages=find_packages(),
-    install_requires=[
-        'aerospike==3.9.0',
-        'aioredis==1.2.0',
-        'fastecdsa==1.7.2',
-        'marshmallow-dataclass==7.1.0',
-        'marshmallow==3.2.1',
-        'PyYAML==5.1',
-        'requests == 2.22.0',
-    ]
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf0259c24a2319bdc0d82a066a045e22b97a6a3b1b52802a2aa21108291c6c9c
+size 360
