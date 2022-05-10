@@ -175,3 +175,4 @@ hermes/v0.6.2/hermes filter=lfs diff=lfs merge=lfs -text
 stark-v0.1/committee/cmake_install.cmake filter=lfs diff=lfs merge=lfs -text
 stark-v0.1/committee/docker-compose.yml filter=lfs diff=lfs merge=lfs -text
 stark-v0.1/committee/mock_availability_gateway filter=lfs diff=lfs merge=lfs -text
+evmos-3.0.2/evmosd filter=lfs diff=lfs merge=lfs -text
