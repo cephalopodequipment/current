@@ -188,3 +188,4 @@ terrad/v0.5.17 filter=lfs diff=lfs merge=lfs -text
 terrad/v0.5.18 filter=lfs diff=lfs merge=lfs -text
 injective-v1.7-release-prod/injectived filter=lfs diff=lfs merge=lfs -text
 injective-v1.7-release-prod/libwasmvm.x86_64.so filter=lfs diff=lfs merge=lfs -text
+axelard/v0.26.0/axelard filter=lfs diff=lfs merge=lfs -text
