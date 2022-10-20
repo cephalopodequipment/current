@@ -186,3 +186,4 @@ sifnoded/v0.9.10 filter=lfs diff=lfs merge=lfs -text
 sifnoded/v0.9.7 filter=lfs diff=lfs merge=lfs -text
 terrad/v0.5.17 filter=lfs diff=lfs merge=lfs -text
 terrad/v0.5.18 filter=lfs diff=lfs merge=lfs -text
+injective-v1.7-release-prod/injectived filter=lfs diff=lfs merge=lfs -text
