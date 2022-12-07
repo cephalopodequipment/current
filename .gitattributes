@@ -66,3 +66,5 @@ sifnoded/v0.13.3/sifnoded filter=lfs diff=lfs merge=lfs -text
 sifnoded/v0.9.7/sifnoded filter=lfs diff=lfs merge=lfs -text
 terrad/v0.5.8/terrad filter=lfs diff=lfs merge=lfs -text
 terrad/v0.5.9/terrad filter=lfs diff=lfs merge=lfs -text
+evmosd/v9.1.0/evmosd filter=lfs diff=lfs merge=lfs -text
+gitopia/v1.2.0/gitopiad filter=lfs diff=lfs merge=lfs -text
